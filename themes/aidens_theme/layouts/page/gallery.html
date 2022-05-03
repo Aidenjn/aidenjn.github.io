@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div id="home-jumbotron" class="jumbotron text-center">
+
+  <p>{{ .Content }}</p>
+
+  {{ range .Site.Data.test.Projects }}
+      <h1>{{.Title}}</h1>
+      <img src="{{.ShowcaseImage}}"></img>
+      <p>{{.Description}}</p>
+
+      <ul>
+      {{ range .Tags }}
+        <li>{{ . }}</li>
+      {{ end }}
+      </ul>
+
+  {{ end }}
+</div>
+{{ end }}
