@@ -10,17 +10,22 @@ title = "Aiden Nelson's Personal Website that is Under Construction"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Posts"
-    pre = "pen-tool"
+    name = "Blog"
+    pre = "book-open"
     url = "/posts/"
     weight = 2
   [[menu.main]]
-    name = "Tags"
-    pre = "tag"
-    url = "/tags/"
+    name = "Tech Portfolio"
+    pre = "star"
+    url = "/gallery/"
     weight = 3
   [[menu.main]]
     name = "Art Gallery"
     pre = "image"
     url = "/gallery/"
     weight = 4
+  [[menu.main]]
+    name = "Misc."
+    pre = "paperclip"
+    url = "/misc/"
+    weight = 5
