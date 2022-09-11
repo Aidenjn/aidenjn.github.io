@@ -1,6 +1,6 @@
 ---
 title: "Gallery"
-layout: "gallery"
+layout: "misc"
 draft: false
 ---
 

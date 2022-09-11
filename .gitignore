@@ -1,2 +1,3 @@
 .hugo_build.lock
 themes/aidens_theme/static/.DS_Store
+public/
