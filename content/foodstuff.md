@@ -1,5 +1,5 @@
 ---
-title: "Meal Manifesto"
+title: "Meal Manifesto 📜"
 layout: "foodstuff"
 draft: false
 ---
@@ -25,15 +25,15 @@ This document is written by Aiden for his own use as an individual, therefore ge
 
 The purpose of this document is to provide a document for Aiden, by Aiden, to improve his intentionality and efficiency in making food for himself and others while being in alignment with his food goals. The food goals of Aiden Nelson are:
 
-:zap:
+⚡️
 Be able to whip up something good fast. 
 - The most important thing to Aiden is to be able to procure an enjoyable meal but not at the cost of a huge amount of time. In other words, the goal is to have the highest yum to make-speed ratio.
 
-:rat:
+🐀
 Meal prep as much as possible to prevent scrounging behavior. 
 - Now that Aiden has finished his student-career he wants to move on from microwave-baked potatoes and box Mac n’ Cheese. To increase the likelihood of procuring a quality meal the right ingredients need to be present and ready to assemble.  This involves buying certain things while shopping, preparing a list of things to get before going shopping, and having a plan of what to do with said ingredients, how to prepare them for ready-use, and when to prepare and use them.
 
-:crystal_ball:
+🔮
 Have lots of options to account for as many conceivable meal-related scenarios as possible.
 - Ideally this document could be consulted for a range of different situations from trying to feed the self with something reasonably quick-to-make and healthy, to trying to feed a crowd of gluten-free vegans something thats still yummy for carnivores.
 
@@ -53,8 +53,7 @@ Recipes for substances that are typically assembled into greater meals are locat
 
 ## Yum Bowl
 
-<img src="imgs/food_imgs/yum_bowl.jpeg " alt="image" width="200"/>
-<img src="Nelson_Aiden.jpeg " alt="image" width="200"/>
+<img src="../imgs/food_imgs/yum_bowl.jpeg" width="300"/>
 
 **Description:**
 The classic yum bowl is served by the resturaunt chain Cafe Yum that spawned out of Eugene Oregon. The key part of this meal is the sauce. Overall this meal feels good in the body and tastes real good.
@@ -139,21 +138,21 @@ Not the healthiest, but very filling and easy to prep in mass.
 2. Bake until crisp (convection oven ideal).
 
 
-# Feeding the Crowds
+# 👨‍👩‍👧‍👦 Feeding the Crowds 
 
 TODO:
 - Nachos
 - Spaghetti
 - Mac and cheese
 
-# Fancy Food
+# 🎩 Fancy Food
 
 TODO:
 - Paella
 - Mexican Lasagna
 - Lasagna
 
-# Lavish Treats
+# 🍪 Lavish Treats
 
 TODO:
 - Chocolate chip cookies
@@ -189,13 +188,16 @@ Forget to make a meal? Got a little lazy? Never fear! Burrito is here!
 **Directions:**
 1. Combine all ingredients into a large bowl.
 2. Mix ingredients in bowl with hands until well mixed. It should look something like the picture below.
-<img src="imgs/food_imgs/burrito_mixture.jpeg " alt="image" width="200"/>
+<br/>
+<img src="../imgs/food_imgs/burrito_mixture.jpeg " alt="burrito ingredients bowl image" width="300"/>
 3. Scoop some mixture into a tortilla and fold into burrito. 
 4. Put burrito to side. 
 5. Repeat steps 3-4 until there is no more mixture left. This should leave you with several stacks of burritos (see example stack below).
-<img src="imgs/food_imgs/burrito_stack.jpeg " alt="image" width="200"/>
+<br/>
+<img src="../imgs/food_imgs/burrito_stack.jpeg " alt="image" width="300"/>
 6. Place burritos into plastic bag and store in freezer. Several plastic bags may be needed.
-<img src="imgs/food_imgs/burrito_bag.jpeg " alt="image" width="200"/>
+<br/>
+<img src="../imgs/food_imgs/burrito_bag.jpeg " alt="image" width="300"/>
 
 This recipe was inspired by Ian Sloan.
 

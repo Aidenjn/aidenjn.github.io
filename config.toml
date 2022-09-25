@@ -3,6 +3,11 @@ languageCode = 'en-us'
 theme = 'aidens_theme'
 title = "Aiden Nelson's Personal Website that is Under Construction"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
   [[menu.main]]
     name = "Home"
