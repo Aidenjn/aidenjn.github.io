@@ -31,7 +31,15 @@ nav {
 /*##################################*/
 
 #content {
- padding: 50px;
+  padding: 30px;
+  text-align: left;
+}
+
+.article_box {
+  margin: 50px;
+  max-width: 800px;
+  margin: 0 auto;
+  float: center;
 }
 
 /*##################################*/
