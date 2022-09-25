@@ -4,9 +4,7 @@ layout: "foodstuff"
 draft: false
 ---
 
-⚠️ A note to readers:
-
-This document is written by Aiden for his own use as an individual, therefore general usability is not guaranteed, especially for those that are not Aiden.
+⚠️ A note to readers: This document is written by Aiden for his own use as an individual, therefore general usability is not guaranteed, especially for those that are not Aiden.
 
 # Document Sections
 
@@ -53,7 +51,7 @@ Recipes for substances that are typically assembled into greater meals are locat
 
 ## Yum Bowl
 
-<img src="../imgs/food_imgs/yum_bowl.jpeg" width="300"/>
+<img src="../imgs/food_imgs/yum_bowl.jpeg" width="250"/>
 
 **Description:**
 The classic yum bowl is served by the resturaunt chain Cafe Yum that spawned out of Eugene Oregon. The key part of this meal is the sauce. Overall this meal feels good in the body and tastes real good.
@@ -189,15 +187,15 @@ Forget to make a meal? Got a little lazy? Never fear! Burrito is here!
 1. Combine all ingredients into a large bowl.
 2. Mix ingredients in bowl with hands until well mixed. It should look something like the picture below.
 <br/>
-<img src="../imgs/food_imgs/burrito_mixture.jpeg " alt="burrito ingredients bowl image" width="300"/>
+<img src="../imgs/food_imgs/burrito_mixture.jpeg " alt="burrito ingredients bowl image" width="250"/>
 3. Scoop some mixture into a tortilla and fold into burrito. 
 4. Put burrito to side. 
 5. Repeat steps 3-4 until there is no more mixture left. This should leave you with several stacks of burritos (see example stack below).
 <br/>
-<img src="../imgs/food_imgs/burrito_stack.jpeg " alt="image" width="300"/>
+<img src="../imgs/food_imgs/burrito_stack.jpeg " alt="image" width="250"/>
 6. Place burritos into plastic bag and store in freezer. Several plastic bags may be needed.
 <br/>
-<img src="../imgs/food_imgs/burrito_bag.jpeg " alt="image" width="300"/>
+<img src="../imgs/food_imgs/burrito_bag.jpeg " alt="image" width="250"/>
 
 This recipe was inspired by Ian Sloan.
 
