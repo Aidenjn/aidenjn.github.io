@@ -1,6 +1,10 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ partial "metadata.html" . }}
+<div id="home-jumbotron" class="jumbotron text-center">
+  <h1>{{ .Title }}</h1>
+  {{ partial "metadata.html" . }}
+</div>
 <br><br>
-{{ .Content }}
+<div class="article_box">
+  {{ .Content }}
+</div>
 {{ end }}
