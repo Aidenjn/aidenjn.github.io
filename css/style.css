@@ -36,10 +36,13 @@ nav {
 }
 
 .article_box {
-  margin: 50px;
+  margin: 30px;
+  padding: 40px;
   max-width: 800px;
   margin: 0 auto;
   float: center;
+  background-color: #f2f2f2;
+  border-radius: 8px;
 }
 
 /*##################################*/
