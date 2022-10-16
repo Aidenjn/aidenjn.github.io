@@ -222,9 +222,11 @@ This recipe was kindly shared with me by my mother, Juile Decker.
 7. Layer 1/3 of the ground beef mixture, 1/2 of the Monterey Jack cheese, 1/2 of the cottage cheese mixture, and 1/2 of the tortillas in a 9x13 baking dish.
 8. Top with 1/2 of the remaining ground beef mixture, the remaining Monterey Jack cheese, remaining cottage cheese mixture, remaining tortillas and remaining ground beef mixture.
 9. Sprinkle with the Cheddar Cheese.
-10, Bake for 30 minutes.  
+10. Bake for 30 minutes.  
 
 <!-- END OF SECTION --><br />
+
+### Pesto Lasagna
 
 🛠 TODO:
 - Pesto Lasagna
@@ -250,7 +252,8 @@ This recipe was kindly shared with me by my mother, Juile Decker.
 
 ## Cookies
 
-- [Chocolate Chip](#cookies)
+- [Chocolate Chip](#chocolate-chip)
+- [Chocolate Chocolate Chip](#chocolate-chocolate-chip)
 - [Snicker-Doodle](#snicker-doodle)
 
 <!-- END OF SECTION --><br />
@@ -285,6 +288,39 @@ This will make make about 3 dozen cookies. It is the best chocolate chip cookie 
 10. Serve after 2 minutes for a melty yummy time, and store extras in an airtight container.
 
 <!-- END OF SECTION --><br />
+
+### Chocolate Chocolate Chip
+
+**Description:**
+This will make make about 3 dozen cookies. It is really just a modified version of the standard [chocolate chip cookie recipe](#chocolate-chip) that I use. There is more to improve I think with this recipe through experimentation, but it still is quite tasty. 
+
+**Ingredients:**
+- 3 1/2 cups all-purpose flour
+- 1 cup cocoa powder
+- 1 teaspoon table or kosher salt
+- 1 teaspoon baking soda
+- 3 sticks (24 teaspoons) of softened or room temperature butter 
+- 2 cup brown sugar (light or dark)
+- 1 cup granulated sugar
+- 2 large egg
+- 2 large egg yolk
+- 4 teaspoons vanilla extract
+- 4 cups of chocolate chips or chunks (sweet, swemisweet, or bittersweet as per your preference) OR 2 cup of chocolate chips and 2 cup of chopped pecans or walnuts
+
+**Directions:**
+1. Heat oven to 325 degrees.
+2. Mix dry ingredients (flour, cocoa powder, salt, and baking soda) together in a bowl and set aside. 
+3. Mix butter and sugars until thoroughly blended, then mix in egg, egg yolk, and vanilla until thoroughly blended.
+4. Mix in dry ingredients a third at a time into sugar blend. Mix until just combined. 
+5. Stir in chips (and nuts if you're using them).
+6. Create cookie dough balls from dough (1/4 cup of dough is a decently large cookie) and place onto plate.
+7. Prepare baking sheets with parchement paper (or just rub them with butter or oil to prevent stick).
+8. Place each cookie dough balls on the baking sheets by ripping the ball in half, joining it back together (non ripped side to non ripped side) and placing it on the sheet. This step is for giving the cookies texture, and can be skipped if you want smoother, less textured cookies.
+9. Cook cookies for 15-18 minutes. Start checking at 15 minutes. Cookies left in closer to 15 minutes will be chewier and cookies left in 18 minutes or more will be crunchier. If you are cooking more than one sheet at a time make sure swap the positions of the sheets halfway through cooking (7-9 minutes through). 
+10. Serve after 2 minutes for a melty yummy time, and store extras in an airtight container.
+
+<!-- END OF SECTION --><br />
+
 
 ### Snicker-Doodle 
 
@@ -610,7 +646,7 @@ Figure out ingredient proportions
 
 <!-- END OF SECTION --><br />
 
-## Protiens
+## Proteins
 
 - [◻️ Crispy Baked Tofu](#crispy-baked-tofu)
 - [🐓 Breaded Chicken](#breaded-chicken)
