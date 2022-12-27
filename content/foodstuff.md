@@ -254,6 +254,7 @@ This recipe was kindly shared with me by my mother, Juile Decker.
 
 - [Chocolate Chip](#chocolate-chip)
 - [Chocolate Chocolate Chip](#chocolate-chocolate-chip)
+- [Molasses](#molasses)
 - [Snicker-Doodle](#snicker-doodle)
 
 <!-- END OF SECTION --><br />
@@ -321,6 +322,38 @@ This will make make about 3 dozen cookies. It is really just a modified version 
 
 <!-- END OF SECTION --><br />
 
+### Molasses 
+
+**Description:**
+Molasses cookie recipe by Bon Appetit. Great savory cookie that's not overwhelmingly sweet. Thank you to Margeaux for sharing this one with me!
+
+**Ingredients:**
+- 2 cups all-purpose flour
+- 2 teaspoons baking soda
+- 1 1/2 teaspoon ground cinnamon
+- 1 teaspoon ground ginger
+- 3/4 teaspoon ground cardamom
+- 1/2 teaspoon kosher salt
+- 1 large egg
+- 1/2 cup (1 stick) unsalted butter, melted
+- 1/3 cup granulated sugar
+- 1/3 cup mild-flavored (light) or robust-flavored (dark) molasses
+- 1/4 cup (packed) dark brown sugar
+- Course sanding or raw sugar (for rolling)
+
+**Directions:**
+1. Preheat the oven to 375 degrees.
+2. Prepare cookie sheets with parchement paper (or just rub them with butter or oil to prevent stick).
+3. Mix the dry ingredients (flour, baking soda, cinnamon, ginger, cardamom, salt) in bowl and set aside.
+4. Whisk the butter, sugar, molasses, and brown sugar in a medium bowl.
+5. Mix in dry ingredients just to combine. 
+6. Place sanding/coarse sugar in a shallow bowl.
+7. Scoop out tablespoonful balls, roll in sugar, and place in pans with 2 inch apart spacing.
+8. Bake cookies until puffed, cracked, and just set around edges. This will be around 8-10 minutes.
+9. Transfer cookies to wired racks and let cool.
+
+<!-- END OF SECTION --><br />
+
 
 ### Snicker-Doodle 
 
@@ -329,8 +362,9 @@ Not great if you just want to eat the dough, but once they are in cookie form th
 
 **Ingredients:**
 - 3 cups all-purpose flour 
+- 1/2 teaspoon salt
 - 1 teaspoon baking soda
-- 1/2 teaspoon cream of tartar
+- 1 teaspoon cream of tartar
 - scant 1/2 teaspoon ground nutmeg 
 - 1 cup (2 sticks) unsalted butter at room temperature
 - 1 1/3 cups sugar
@@ -340,7 +374,7 @@ Not great if you just want to eat the dough, but once they are in cookie form th
 - (for topping) 3/4 teaspoon ground cinnamon 
 
 **Directions:**
-1. Preheat the oven to 385 degrees.
+1. Preheat the oven to 375 degrees.
 2. Prepare cookie sheets with parchement paper (or just rub them with butter or oil to prevent stick).
 3. Mix the dry ingredients that are not for topping (flour, baking soda, salt, cream of tartar, and nutmeg) in bowl and set aside.
 4. Cream the butter, sugar, and vanilla together in a bowl until light and fluffy.
@@ -375,9 +409,10 @@ The banana bread recipe that Sasha Leamy kindly shared with me.
 **Ingredients:**
 - 1 3/4 cups all-purpose flour
 - 2 teaspoons baking powder
+- 1/4 teaspoon baking soda
 - 1/2 teaspoon table salt
 - 3-4 medium very, very ripe bananas 
-- 3/4 cup firmly packed brown sugar
+- 3/4 cup firmly packed (light or dark) brown sugar
 - 1/3 cup canola or corn oil
 - 2 large eggs
 - 1 teaspoon pure vanilla extract
