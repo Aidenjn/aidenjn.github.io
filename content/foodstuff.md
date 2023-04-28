@@ -57,6 +57,7 @@ Ideally this document could be consulted for a range of different situations fro
 
 <!-- END OF SECTION --><br />
 
+
 # Term Definitions
 
 - **Tasty** - Tastes good.
@@ -64,7 +65,9 @@ Ideally this document could be consulted for a range of different situations fro
 - **Yum/yummy** - Tastes good when eating and feels healthy when eating and after eating.
 - **Degrees** - Always degrees Fahrenheit.
 
-<!-- END OF SECTION --><br />
+<!-- END OF BIGGER SECTION --><br />
+[⬆️  back to top ⬆️](#document-sections)
+<!-- END OF BIGGER SECTION --><br />
 
 # Meals for Self
 
@@ -164,7 +167,10 @@ Not the healthiest, but very filling and easy to prep in mass.
 1. Remove burrito from fridge and place in oven.
 2. Bake until crisp (convection oven ideal).
 
-<!-- END OF SECTION --><br />
+
+<!-- END OF BIGGER SECTION --><br />
+[⬆️  back to top ⬆️](#document-sections)
+<!-- END OF BIGGER SECTION --><br />
 
 # Feeding the Crowds 
 
@@ -231,17 +237,16 @@ This recipe was kindly shared with me by my mother, Juile Decker.
 🛠 TODO:
 - Pesto Lasagna
 
+
 <!-- END OF SECTION --><br />
 
 - [Paella](#Paella)
 🛠 TODO
 
-<!-- END OF SECTION --><br />
 
-### Chocolate Chip
-
-
-<!-- END OF SECTION --><br />
+<!-- END OF BIGGER SECTION --><br />
+[⬆️  back to top ⬆️](#document-sections)
+<!-- END OF BIGGER SECTION --><br />
 
 # Lavish Treats
 
@@ -345,7 +350,7 @@ Molasses cookie recipe by Bon Appetit. Great savory cookie that's not overwhelmi
 1. Preheat the oven to 375 degrees.
 2. Prepare cookie sheets with parchement paper (or just rub them with butter or oil to prevent stick).
 3. Mix the dry ingredients (flour, baking soda, cinnamon, ginger, cardamom, salt) in bowl and set aside.
-4. Whisk the butter, sugar, molasses, and brown sugar in a medium bowl.
+4. Whisk the butter, egg, sugar, molasses, and brown sugar in a medium bowl.
 5. Mix in dry ingredients just to combine. 
 6. Place sanding/coarse sugar in a shallow bowl.
 7. Scoop out tablespoonful balls, roll in sugar, and place in pans with 2 inch apart spacing.
@@ -391,7 +396,9 @@ Not great if you just want to eat the dough, but once they are in cookie form th
 🛠 TODO:
 - Chocolate Chocolate Chip Cookies
 
-<!-- END OF SECTION --><br />
+<!-- END OF BIGGER SECTION --><br />
+[⬆️  back to top ⬆️](#document-sections)
+<!-- END OF BIGGER SECTION --><br />
 
 ## Dessert Bread
 
@@ -450,7 +457,9 @@ The banana bread recipe that Sasha Leamy kindly shared with me.
 ### Zucchini Bread
 🛠 TODO
 
-<!-- END OF SECTION --><br />
+<!-- END OF BIGGER SECTION --><br />
+[⬆️  back to top ⬆️](#document-sections)
+<!-- END OF BIGGER SECTION --><br />
 
 # Miscellaneous Foodstuff
 
@@ -541,7 +550,9 @@ This recipe was inspired by Ian Sloan.
 11. Stir in the Thai basil leaves.
 12. Serve with jasmine rice or store in containters to freeze.
 
-<!-- END OF SECTION --><br />
+<!-- END OF BIGGER SECTION --><br />
+[⬆️  back to top ⬆️](#document-sections)
+<!-- END OF BIGGER SECTION --><br />
 
 ## Sauces
 
@@ -623,7 +634,10 @@ Figure out ingredient proportions
 1. Add the oil, lemon juice, soy sauce, siracha, water, and garlic to the blender and blend until well mixed.
 2. Add in each cup of peanut butter and mix one at a time.
 
-<!-- END OF SECTION --><br />
+<!-- END OF BIGGER SECTION --><br />
+[⬆️  back to top ⬆️](#document-sections)
+<!-- END OF BIGGER SECTION --><br />
+
 
 ## Rice
 
@@ -679,7 +693,9 @@ Figure out ingredient proportions
 4. Cook for 4 minutes on high pressure.
 5. Allow Keep Warm mode for 10 minutes.
 
-<!-- END OF SECTION --><br />
+<!-- END OF BIGGER SECTION --><br />
+[⬆️  back to top ⬆️](#document-sections)
+<!-- END OF BIGGER SECTION --><br />
 
 ## Proteins
 
@@ -743,3 +759,8 @@ Figure out ingredient proportions
 3. Butter or oil a pan to prevent stick.
 4. Dip each breast into the wet ingredient bowl, then into the dry ingredient bowl (ensuring it gets fully covered), and then place onto the pan.
 5. Cook chicken for 40-45 minutes.
+
+
+<!-- END OF BIGGER SECTION --><br />
+[⬆️  back to top ⬆️](#document-sections)
+<!-- END OF BIGGER SECTION --><br />
