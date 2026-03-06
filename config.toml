@@ -7,30 +7,3 @@ title = "Aiden Nelson's Personal Website that is Under Construction"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
-[menu]
-  [[menu.main]]
-    name = "Home"
-    pre = "home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    name = "Blog"
-    pre = "book-open"
-    url = "/posts/"
-    weight = 2
-  [[menu.main]]
-    name = "Tech Portfolio"
-    pre = "star"
-    url = "/gallery/"
-    weight = 3
-  [[menu.main]]
-    name = "Art Gallery"
-    pre = "image"
-    url = "/gallery/"
-    weight = 4
-  [[menu.main]]
-    name = "Misc."
-    pre = "paperclip"
-    url = "/misc/"
-    weight = 5
